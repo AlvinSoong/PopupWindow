@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="bottom_menu">
+        <item name="android:windowEnterAnimation">@anim/menu_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/menu_bottom_out</item>
+    </style>
+
 </resources>
